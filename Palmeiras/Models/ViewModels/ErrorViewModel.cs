@@ -1,6 +1,6 @@
 using System;
 
-namespace Palmeiras.Models
+namespace Palmeiras.Models.ViewModels
 {
     public class ErrorViewModel
     {
